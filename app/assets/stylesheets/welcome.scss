@@ -25,3 +25,21 @@ section {
   margin: 5px 5px 5px 5px;
   padding: 5px 5px 5px 5px;
 }
+
+.social-btn {
+  position: relative;
+  height: 100px;
+  width: 200px;
+  background:#33CCCC;
+  border: 10px solid #FFFFFF;
+  color: #888888;
+  font-size: 15px;
+  padding: 5 5 5 5;
+  margin: 20px;
+  text-align:center;
+}
+
+// Create a CSS class in welcome.scss called .social-btn
+// and use the attributes you read about to shape and position it.
+// Attributes like display, height, width, background, border, color,
+// text-align and font will help you create a basic button.
